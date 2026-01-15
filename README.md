@@ -17,13 +17,13 @@ Ambas bibliotecas se cargan directamente de Internet, por eso no se incluyen en 
 
 ## Controles para el movimiento de la excavadora
 
-El movimiento de la excavadora trata de imitar el movimiento de una excavadora real, es decir, dos palancas donde cada palanca controla un oruga de la excavadora. Así tenemos:
+El movimiento de la excavadora trata de imitar el movimiento de una excavadora real, es decir, dos palancas, donde cada palanca controla un oruga de la excavadora. Así tenemos:
 
 * **Flecha arriba:** controla la oruga derecha.
 * **Flecha abajo:** controla la oruga izquierda.
 * **Shift:** marcha atrás.
 
-Así de esta manera pulsando solo una de las flechas la excavadora girará. Pulsando ambas flechas a la vez la excavadora se moverá hacia delante. Pulsando la tecla Shift a la vez el movimiento será el mismo pero marcha atrás.
+Así, de esta manera, pulsando solo una de las flechas, la excavadora girará. Pulsando ambas flechas a la vez la excavadora se moverá hacia delante. Pulsando la tecla Shift a la vez el movimiento será el mismo pero marcha atrás.
 
 ## Controles rotación 360º de la cabina
 
