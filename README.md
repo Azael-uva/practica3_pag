@@ -17,7 +17,7 @@ Ambas bibliotecas se cargan directamente de Internet, por eso no se incluyen en 
 
 ## Controles para el movimiento de la excavadora
 
-El movimiento de la excavadora trata imitar el movimiento de una excavadora real, es decir, dos palancas donde cada palanca controla un oruga de la excavadora. Así tenemos:
+El movimiento de la excavadora trata de imitar el movimiento de una excavadora real, es decir, dos palancas donde cada palanca controla un oruga de la excavadora. Así tenemos:
 
 * **Flecha arriba:** controla la oruga derecha.
 * **Flecha abajo:** controla la oruga izquierda.
