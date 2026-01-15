@@ -32,16 +32,16 @@ Así, de esta manera, pulsando solo una de las flechas, la excavadora girará. P
 
 ## Controles brazo articulado de la excavadora
 
-* **w:** sube el brazo.
-* **s:** baja el brazo.
-* **d:** sube el antebrazo.
-* **a:** baja el antebrazo.
-* **c:** sube cuchara.
-* **x:** baja cuchara.
+* **W:** sube el brazo.
+* **S:** baja el brazo.
+* **D:** sube el antebrazo.
+* **A:** baja el antebrazo.
+* **C:** sube cuchara.
+* **X:** baja cuchara.
 
 ## Controles de las luces
 
-* **l:** enciende/apaga luces de la excavadora.
+* **L:** enciende/apaga luces de la excavadora.
 
 ## Controles de la cámara
 
