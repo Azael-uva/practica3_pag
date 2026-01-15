@@ -4,7 +4,7 @@ Para solucionar el problema de la carga de texturas, estan todas subidas a un gi
 
 Las texturas se encuentran aquí:
 [https://github.com/Azael-uva/practica3_pag](https://github.com/Azael-uva/practica3_pag)
-
+En este repositorio también se puede encontrar el código y el propio README.
 ## Bibliotecas utilizadas
 
 * **OrbitControls** ([https://cdn.jsdelivr.net/gh/mrdoob/three.js@r128/examples/js/controls/OrbitControls.js](https://cdn.jsdelivr.net/gh/mrdoob/three.js@r128/examples/js/controls/OrbitControls.js))
