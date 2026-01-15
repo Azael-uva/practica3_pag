@@ -36,8 +36,8 @@ Así, de esta manera, pulsando solo una de las flechas, la excavadora girará. P
 * **s:** baja el brazo.
 * **d:** sube el antebrazo.
 * **a:** baja el antebrazo.
-* **x:** baja cuchara.
 * **c:** sube cuchara.
+* **x:** baja cuchara.
 
 ## Controles de las luces
 
