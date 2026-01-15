@@ -23,7 +23,7 @@ El movimiento de la excavadora trata de imitar el movimiento de una excavadora r
 * **Flecha abajo:** controla la oruga izquierda.
 * **Shift:** marcha atrás.
 
-Así, de esta manera, pulsando solo una de las flechas, la excavadora girará. Pulsando ambas flechas a la vez la excavadora se moverá hacia delante. Pulsando la tecla Shift a la vez el movimiento será el mismo pero marcha atrás.
+Así, de esta manera, pulsando solo una de las flechas, la excavadora girará. Pulsando ambas flechas a la vez la excavadora se moverá hacia delante. Pulsando la tecla Shift a la vez, los movimientos serán los mismos pero marcha atrás.
 
 ## Controles rotación 360º de la cabina
 
